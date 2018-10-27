@@ -1,1 +1,1 @@
-# My first blockchain written in Python
+# Blockchain
